@@ -1,0 +1,14 @@
+{
+  "name": "webscrape-2",
+  "version": "1.0.0",
+  "description": "Webscrape demo from YouTube",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kiran Anand",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^7.1.0"
+  }
+}
